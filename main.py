@@ -56,8 +56,8 @@ with st.sidebar:
     st.markdown(
         """
         <footer style="text-align: center; padding: 20px; font-size: 12px; color: #777; background-color: #f1f1f1; border-top: 1px solid #ccc; margin-top: 40px;">
-            Made with ❤️ by [Your Name].<br>
-            Version 1.0 | <a href="https://www.example.com" target="_blank" style="color: #0073e6;">Visit my Website</a>
+            Made with ❤️ by Tansen.<br>
+            Version 1.0 | <a href="https://www.linkedin.com/in/tansen-balpande-48604420b?trk=contact-info" target="_blank" style="color: #0073e6;">Visit my Linkedin Page</a>
         </footer>
         """, unsafe_allow_html=True
     )
