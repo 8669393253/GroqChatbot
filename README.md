@@ -30,7 +30,7 @@ This project features a customizable AI chatbot powered by **Llama 3.1**, an adv
 
 ### Steps to Install
 1. Clone the repository:
-    git clone https://github.com/your-username/llama-chatbot.git
+    git clone https://github.com/8669393253/GroqChatbot?tab=readme-ov-file
     cd llama-chatbot
 
 2. Create a virtual environment (optional but recommended):
@@ -85,7 +85,7 @@ You can customize the chatbot and app's behavior by modifying the following:
 
 ### Footer Customization
 The footer inside the sidebar credits the creator and provides a link to a personal website. To customize it:
-1. Replace `"[Your Name]"` with your name or another credit.
+1. Replace your name or another credit.
 2. Update the link in the footer to point to your personal website or other relevant URLs.
 
 ## License
